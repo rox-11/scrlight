@@ -1,6 +1,6 @@
 #!/bin/bash
 
-h = lux -G 
+#h = lux -G 
 echo "bright is " $h
 #clospc = lux -s 0
 read -p 'set bright >> ' control
