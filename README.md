@@ -15,4 +15,4 @@ $ chmod +x ./lux.sh
 $ ./screen.sh
 ```
 
-
+<h3> screen light :</h3> scrlight adjustment tool based on Lux tool.
